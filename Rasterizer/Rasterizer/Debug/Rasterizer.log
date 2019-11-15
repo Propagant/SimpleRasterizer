@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\WORK\Programming_Languages\C++\Projects\Rasterizer\Rasterizer\Rasterizer\Source.cpp(90,25): warning C4101:  'delta_ticks': unreferenced local variable
+F:\WORK\Programming_Languages\C++\Projects\Rasterizer\Rasterizer\Rasterizer\Source.cpp(91,10): warning C4101:  'fps': unreferenced local variable
+  Rasterizer.vcxproj -> F:\WORK\Programming_Languages\C++\Projects\Rasterizer\Rasterizer\Debug\Rasterizer.exe
